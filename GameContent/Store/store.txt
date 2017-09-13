@@ -1,0 +1,33 @@
+Upgrade
+Boost
+10
+Upgrade
+Bigger jump
+10
+Color of ball
+Blue
+10
+Color of ball
+Orange
+10
+Color of ball
+Green
+10
+Color of ball
+Gray
+10
+Color of ball
+Black
+10
+Color of ball
+Dark green
+10
+Color of ball
+Yellow
+10
+Color of ball
+White
+10
+Color of ball
+Red
+10

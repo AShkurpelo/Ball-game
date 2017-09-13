@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\menu.spritefont</Source>
+      <Name>Fonts\menu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Fonts\menu.xnb</Output>
+      <Time>2013-03-16T13:57:18.6449556+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\messegeFont.spritefont</Source>
+      <Name>Fonts\messegeFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Fonts\messegeFont.xnb</Output>
+      <Time>2013-03-22T14:50:59.0610132+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Store\nameFont.spritefont</Source>
+      <Name>Store\nameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\nameFont.xnb</Output>
+      <Time>2013-03-20T16:10:36.2595499+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Store\categoryFont.spritefont</Source>
+      <Name>Store\categoryFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\categoryFont.xnb</Output>
+      <Time>2013-03-19T22:01:40.7955148+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\lava.jpg</Source>
+      <Name>Textures\lava</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\lava.xnb</Output>
+      <Time>2013-03-23T11:07:22.8385459+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ball\ball_Gray.png</Source>
+      <Name>Textures\Ball\ball_Gray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Gray.xnb</Output>
+      <Time>2013-03-17T22:09:46.8424475+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ball\ball_Blue.PNG</Source>
+      <Name>Textures\Ball\ball_Blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Blue.xnb</Output>
+      <Time>2013-03-17T23:34:34.4634427+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ball\ball_Black.PNG</Source>
+      <Name>Textures\Ball\ball_Black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Black.xnb</Output>
+      <Time>2013-03-18T19:18:06.0959316+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ball\ball_Dark green.PNG</Source>
+      <Name>Textures\Ball\ball_Dark green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Dark green.xnb</Output>
+      <Time>2013-03-18T19:18:06.1049321+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ball\ball_Green.PNG</Source>
+      <Name>Textures\Ball\ball_Green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Green.xnb</Output>
+      <Time>2013-03-18T19:18:06.1129326+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ball\ball_Orange.PNG</Source>
+      <Name>Textures\Ball\ball_Orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Orange.xnb</Output>
+      <Time>2013-03-18T19:18:06.1209331+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ball\ball_Red.PNG</Source>
+      <Name>Textures\Ball\ball_Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Red.xnb</Output>
+      <Time>2013-03-18T19:18:06.1559351+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ball\ball_White.PNG</Source>
+      <Name>Textures\Ball\ball_White</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_White.xnb</Output>
+      <Time>2013-03-18T19:18:06.1629355+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ball\ball_Yellow.PNG</Source>
+      <Name>Textures\Ball\ball_Yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Yellow.xnb</Output>
+      <Time>2013-03-18T19:18:06.1709359+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Store\Black.jpg</Source>
+      <Name>Store\Black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Black.xnb</Output>
+      <Time>2013-03-19T21:42:59.48113+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Store\Blue.jpg</Source>
+      <Name>Store\Blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Blue.xnb</Output>
+      <Time>2013-03-19T21:42:59.48113+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Store\Dark green.jpg</Source>
+      <Name>Store\Dark green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Dark green.xnb</Output>
+      <Time>2013-03-19T21:42:59.49113+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Store\Gray.jpg</Source>
+      <Name>Store\Gray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Gray.xnb</Output>
+      <Time>2013-03-19T21:42:59.50113+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Store\Green.jpg</Source>
+      <Name>Store\Green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Green.xnb</Output>
+      <Time>2013-03-19T21:42:59.5311301+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Store\Orange.jpg</Source>
+      <Name>Store\Orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Orange.xnb</Output>
+      <Time>2013-03-19T21:42:59.5411301+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Store\Red.jpg</Source>
+      <Name>Store\Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Red.xnb</Output>
+      <Time>2013-03-19T21:42:59.5411301+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Store\White.jpg</Source>
+      <Name>Store\White</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\White.xnb</Output>
+      <Time>2013-03-19T21:42:59.5511301+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Store\Yellow.jpg</Source>
+      <Name>Store\Yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Yellow.xnb</Output>
+      <Time>2013-03-19T21:42:59.5611301+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\gold.png</Source>
+      <Name>Textures\gold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\gold.xnb</Output>
+      <Time>2013-03-21T18:52:41.7135757+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Store\Gold.PNG</Source>
+      <Name>Store\Gold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Gold.xnb</Output>
+      <Time>2013-03-21T16:30:58.6374326+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Store\Boost.png</Source>
+      <Name>Store\Boost</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Boost.xnb</Output>
+      <Time>2013-03-22T19:22:37.1422101+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Store\Bigger jump.png</Source>
+      <Name>Store\Bigger jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Bigger jump.xnb</Output>
+      <Time>2013-03-22T19:22:36.0991504+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\wall.jpg</Source>
+      <Name>Textures\wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\wall.xnb</Output>
+      <Time>2013-03-15T14:31:19.076562+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\exit.jpg</Source>
+      <Name>Textures\exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\exit.xnb</Output>
+      <Time>2013-03-23T10:56:40.0666402+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\gold.wav</Source>
+      <Name>Sound\gold</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Sound\gold.xnb</Output>
+      <Time>2013-03-22T21:47:14.4335228+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\menuSwitch.wav</Source>
+      <Name>Sound\menuSwitch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Sound\menuSwitch.xnb</Output>
+      <Time>2013-03-22T22:54:06.9270243+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\menuSelect.wav</Source>
+      <Name>Sound\menuSelect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Sound\menuSelect.xnb</Output>
+      <Time>2013-03-22T22:56:49.3993172+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\store.wav</Source>
+      <Name>Sound\store</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Sound\store.xnb</Output>
+      <Time>2013-03-22T23:13:49.5016637+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\win.wav</Source>
+      <Name>Sound\win</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Sound\win.xnb</Output>
+      <Time>2013-03-22T23:20:19.7069822+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\lose.wav</Source>
+      <Name>Sound\lose</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Sound\lose.xnb</Output>
+      <Time>2013-03-22T23:32:15.8129411+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\lava.mp3</Source>
+      <Name>Sound\lava</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Sound\lava.xnb</Output>
+      <Time>2013-03-22T21:59:52.225866+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\game.mp3</Source>
+      <Name>Sound\game</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Sound\game.xnb</Output>
+      <Time>2013-03-22T22:28:37.4185414+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\GameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\GameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-01T16:14:11.712329+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

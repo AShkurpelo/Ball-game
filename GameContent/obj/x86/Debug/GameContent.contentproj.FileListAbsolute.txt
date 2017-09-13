@@ -1,0 +1,6 @@
+D:\Game\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache
+D:\Game - копия\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache
+D:\Game - копия - копия\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache
+D:\Ball Game\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache
