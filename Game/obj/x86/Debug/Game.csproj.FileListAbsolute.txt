@@ -1,0 +1,259 @@
+D:\Game\Game\Game\Game\bin\x86\Debug\Content\Levels\level1.txt
+D:\Game\Game\Game\Game\bin\x86\Debug\Content\Levels\level2.txt
+D:\Game\Game\Game\Game\bin\x86\Debug\Game.exe
+D:\Game\Game\Game\Game\bin\x86\Debug\Game.pdb
+D:\Game\Game\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Game\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Game\Game\Game\Game\obj\x86\Debug\Game.exe
+D:\Game\Game\Game\Game\obj\x86\Debug\Game.pdb
+D:\Game\Game\Game\Game\bin\x86\Debug\Content\Textures\ball.xnb
+D:\Game\Game\Game\Game\bin\x86\Debug\Content\Textures\lava.xnb
+D:\Game\Game\Game\Game\bin\x86\Debug\Content\Textures\wall.xnb
+D:\Game\Game\Game\Game\bin\x86\Debug\Content\Textures\exit.xnb
+D:\Game\Game\Game\Game\bin\x86\Debug\Content\Fonts\menu.xnb
+D:\Game\Game\Game\Game\bin\x86\Debug\Content\Levels\level-1.txt
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Fonts\menu.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\lava.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\wall.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\exit.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Levels\level1.txt
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Levels\level2.txt
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Levels\level-1.txt
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Game.exe
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Game.pdb
+D:\Game - копия\Game\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Game - копия\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Game - копия\Game\Game\Game\obj\x86\Debug\Game.exe
+D:\Game - копия\Game\Game\Game\obj\x86\Debug\Game.pdb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Gray.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Blue.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Black.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Dark green.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Green.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Orange.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Red.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_White.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Yellow.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Store\store.txt
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Black.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Blue.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Dark green.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Gray.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Green.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Orange.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Red.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Store\White.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Yellow.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Store\nameFont.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Store\categoryFont.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\gold.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Gold.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Boost.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Fonts\messegeFont.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Bigger jump.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\gold.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\lava.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\game.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\menuSwitch.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\menuSelect.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\store.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\win.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\lose.xnb
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Levels\level3.txt
+D:\Game - копия\Game\Game\Game\bin\x86\Debug\Content\Store\New wall.xnb
+D:\Game - копия - копия\Game\Game\Game\obj\x86\Debug\Game.exe
+D:\Game - копия - копия\Game\Game\Game\obj\x86\Debug\Game.pdb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Fonts\menu.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Fonts\messegeFont.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Store\nameFont.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Store\categoryFont.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\lava.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\exit.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Gray.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Blue.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Black.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Dark green.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Green.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Orange.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Red.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_White.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Yellow.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Black.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Blue.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Dark green.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Gray.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Green.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Orange.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Red.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Store\White.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Yellow.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\gold.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Gold.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Boost.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Bigger jump.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\wall.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\gold.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\menuSwitch.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\menuSelect.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\store.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\win.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\lose.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\lava.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\game.xnb
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Levels\level1.txt
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Levels\level2.txt
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Levels\level-1.txt
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Store\store.txt
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Content\Levels\level3.txt
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Game.exe
+D:\Game - копия - копия\Game\Game\Game\bin\x86\Debug\Game.pdb
+D:\Game - копия - копия\Game\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Game - копия - копия\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Fonts\menu.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Fonts\messegeFont.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Store\nameFont.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Store\categoryFont.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Textures\lava.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Gray.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Blue.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Black.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Dark green.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Green.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Orange.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Red.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_White.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Yellow.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Store\Black.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Store\Blue.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Store\Dark green.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Store\Gray.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Store\Green.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Store\Orange.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Store\Red.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Store\White.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Store\Yellow.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Textures\gold.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Store\Gold.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Store\Boost.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Store\Bigger jump.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Textures\wall.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Textures\exit.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Sound\gold.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Sound\menuSwitch.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Sound\menuSelect.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Sound\store.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Sound\win.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Sound\lose.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Sound\lava.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Sound\game.xnb
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Levels\level1.txt
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Levels\level2.txt
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Levels\level-1.txt
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Store\store.txt
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Content\Levels\level3.txt
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Game.exe
+D:\Ball Game\Game\Game\Game\bin\x86\Debug\Game.pdb
+D:\Ball Game\Game\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Ball Game\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Ball Game\Game\Game\Game\obj\x86\Debug\Game.exe
+D:\Ball Game\Game\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Fonts\menu.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Fonts\messegeFont.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Store\nameFont.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Store\categoryFont.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\lava.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Gray.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Blue.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Black.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Dark green.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Green.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Orange.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Red.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_White.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Yellow.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Black.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Blue.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Dark green.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Gray.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Green.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Orange.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Red.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Store\White.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Yellow.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\gold.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Gold.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Boost.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Store\Bigger jump.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\wall.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Textures\exit.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\gold.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\menuSwitch.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\menuSelect.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\store.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\win.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\lose.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\lava.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Sound\game.xnb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Levels\level1.txt
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Levels\level2.txt
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Levels\level-1.txt
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Store\store.txt
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Levels\level3.txt
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Levels\level4.txt
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Content\Levels\level5.txt
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Game.exe
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\bin\x86\Debug\Game.pdb
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Сергей\Desktop\Ball Game code - копия\Game\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Fonts\menu.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Fonts\messegeFont.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\nameFont.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\categoryFont.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\lava.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Gray.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Blue.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Black.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Dark green.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Green.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Orange.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Red.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_White.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\Ball\ball_Yellow.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Black.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Blue.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Dark green.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Gray.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Green.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Orange.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Red.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\White.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Yellow.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\gold.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Gold.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Boost.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\Bigger jump.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\wall.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Textures\exit.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Sound\gold.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Sound\menuSwitch.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Sound\menuSelect.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Sound\store.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Sound\win.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Sound\lose.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Sound\lava.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Sound\game.xnb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Levels\level3.txt
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Levels\level2.txt
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Levels\level-1.txt
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Store\store.txt
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Levels\level1.txt
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Levels\level4.txt
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Content\Levels\level5.txt
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Game.exe
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\bin\x86\Debug\Game.pdb
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Сергей\Desktop\Ball Game code\Game\Game\Game\obj\x86\Debug\Game.pdb
